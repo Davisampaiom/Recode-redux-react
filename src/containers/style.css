@@ -1,0 +1,16 @@
+.adicionar{
+width: 50vh !important;
+
+
+
+}
+
+.adicionar input{
+    margin-bottom: 1vh ;
+
+    height: 5vh;
+}
+
+.adincionar button{
+    margin-left: 100vh !important;
+}
